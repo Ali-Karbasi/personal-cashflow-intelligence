@@ -18,6 +18,7 @@ The system models real-world financial concepts such as:
  ## Architecture
  Power Apps → SQL Database → Power BI  
  Excel is used for prototyping and validation.
+ 
  ![Architecture Diagram](docs/architecture-diagram.png)
 
  ---
