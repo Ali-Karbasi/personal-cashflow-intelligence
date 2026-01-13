@@ -22,7 +22,7 @@ The system models real-world financial concepts such as:
 
  ---
  ## Data Model
- ![Data Model Diagram](docs/EDR.png)
+ ![Data Model Diagram](docs/ERD.png)
 
  ---
  ## Tools Used
